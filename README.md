@@ -1,10 +1,8 @@
 # pdo
 
-<p>
-  <ol>
-    CRUD
-    Bootstrap 4.4
-    PDO
-    MySQL
+<ol>
+    <li>CRUD</li>
+    <li>Bootstrap 4.4</li>
+    <li>PDO</li>
+    <li>MySQL</li>
   </ol>
-</p>
